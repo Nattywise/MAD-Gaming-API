@@ -1,0 +1,54 @@
+Choose as Genre
+Option: Movies
+Option: Cars
+Option: Science
+You choose Genre: Cars
+--------
+Which toyota car model is mostly used for Uber
+Option 1: Yaris
+Option 2: Auris
+Option 3: Etios
+Option 4: Corrola
+You choose Option: 2
+You took: 11 seconds to answer.
+Answer is incorrect!
+--------
+Name the American Formula One racing team that entered the sport for the first time in 2016.
+Option 1: Ferrari
+Option 2: Haas
+Option 3: Face India
+Option 4: Red Bull
+You choose Option: 1
+You took: 40 seconds to answer.
+Your answer was correct and your scored 40 as you answered in 40 seconds
+--------
+Name the Alfa Romeo mechanic who started the ?Italian sports car manufacturer, Ferrari
+Option 1: William Ferrari
+Option 2: Piero Ferrari
+Option 3: Petra Ferrari
+Option 4: Enzo Ferrari
+You choose Option: 2
+You took: 29 seconds to answer.
+Answer is incorrect!
+--------
+The Ford Mustang is a true American classic. But it was almost called something else. Pick the right answer below.
+Option 1: Allegro
+Option 2: Corvette
+Option 3: Ka
+Option 4: Teardrop
+You choose Option: 3
+You took: 27 seconds to answer.
+Answer is incorrect!
+--------
+The Model T is Ford's best selling model. Just how many were manufactured?
+Option 1: 1 Million
+Option 2: 3 Million
+Option 3: 15 Million
+Option 4: 200000
+You choose Option: 3
+You took: 11 seconds to answer.
+Answer is incorrect!
+--------
+--------
+Your score is 40 out of 500.
+--------

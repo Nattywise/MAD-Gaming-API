@@ -1,0 +1,9 @@
+Choose as Genre
+Option: Movies
+Option: Cars
+Option: Science
+You choose Genre: Movies
+--------
+--------
+
+--------

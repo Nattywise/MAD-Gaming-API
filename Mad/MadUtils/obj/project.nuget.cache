@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDUFUc8P8SvKEDUuPMU4u/Dsq0JiC590lfTRUfsBvHvwL17LHGXqG0/QjE2QnNQaKyeNGHangsBQ5OFUNYxRSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NNgcobo\\Downloads\\Mad\\Mad\\MadUtils\\MadUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NNgcobo\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\NNgcobo\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\NNgcobo\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\NNgcobo\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\NNgcobo\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\NNgcobo\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\NNgcobo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

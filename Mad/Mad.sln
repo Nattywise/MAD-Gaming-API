@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadApi", "MadApi\MadApi.csproj", "{9174FE76-F883-4094-82C5-102970502987}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadDataAccess", "MadDataAccess\MadDataAccess.csproj", "{6C418494-0445-4A35-B053-477A1B3DE2CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadTest", "MadTest\MadTest.csproj", "{7810D458-A61C-4F48-8211-B18862848E71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadUtils", "MadUtils\MadUtils.csproj", "{8C54EBFC-633C-4EF0-974F-C9F75CC974C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD3E44D5-CFE8-43E0-9F05-39217241A8D4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\MAD.DataAccess\Seed Data\API.md = ..\..\..\Desktop\MAD.DataAccess\Seed Data\API.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9174FE76-F883-4094-82C5-102970502987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9174FE76-F883-4094-82C5-102970502987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9174FE76-F883-4094-82C5-102970502987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9174FE76-F883-4094-82C5-102970502987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C418494-0445-4A35-B053-477A1B3DE2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C418494-0445-4A35-B053-477A1B3DE2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C418494-0445-4A35-B053-477A1B3DE2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C418494-0445-4A35-B053-477A1B3DE2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7810D458-A61C-4F48-8211-B18862848E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7810D458-A61C-4F48-8211-B18862848E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7810D458-A61C-4F48-8211-B18862848E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7810D458-A61C-4F48-8211-B18862848E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C54EBFC-633C-4EF0-974F-C9F75CC974C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C54EBFC-633C-4EF0-974F-C9F75CC974C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C54EBFC-633C-4EF0-974F-C9F75CC974C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C54EBFC-633C-4EF0-974F-C9F75CC974C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB21E0F9-B0E3-4290-B862-357B0A82A426}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://katit.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MadApi\\MadApi.csproj
+		SccProjectName1 = MadApi
+		SccLocalPath1 = MadApi
+		SccProjectUniqueName2 = MadDataAccess\\MadDataAccess.csproj
+		SccProjectName2 = MadDataAccess
+		SccLocalPath2 = MadDataAccess
+		SccProjectUniqueName3 = MadTest\\MadTest.csproj
+		SccProjectName3 = MadTest
+		SccLocalPath3 = MadTest
+		SccProjectUniqueName4 = MadUtils\\MadUtils.csproj
+		SccProjectName4 = MadUtils
+		SccLocalPath4 = MadUtils
+	EndGlobalSection
+EndGlobal

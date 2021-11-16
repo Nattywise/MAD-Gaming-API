@@ -1,0 +1,54 @@
+Choose as Genre
+Option: Movies
+Option: Cars
+Option: Science
+You choose Genre: Movies
+--------
+What is the highest grossing movie of all time
+Option 1: Avatar
+Option 2: Titanic
+Option 3: Avengers End Game
+Option 4: Need For Speed
+You choose Option: 1
+You took: 52 seconds to answer.
+Answer is incorrect!
+--------
+Which of these is NOT a real job title that appears in movie credits?
+Option 1: Key grip
+Option 2: Gaffer
+Option 3: Splicer
+Option 4: Best boy
+You choose Option: 2
+You took: 12 seconds to answer.
+Answer is incorrect!
+--------
+What was the first movie in the Marvel Cinematic Universe?
+Option 1: The Avengers
+Option 2: Spider-Man
+Option 3: Iron Man
+Option 4: Batman
+You choose Option: 3
+You took: 31 seconds to answer.
+Answer is incorrect!
+--------
+Which of these actors didn't appear in 'Pulp Fiction'?
+Option 1: John Turturro
+Option 2: Samuel L Jaction
+Option 3: Uma Thurman
+Option 4: Bruce Willis
+You choose Option: 3
+You took: 42 seconds to answer.
+Answer is incorrect!
+--------
+Which of these movies was NOT directed by M. Night Shyamalan?
+Option 1: The Rings
+Option 2: Signs
+Option 3: The Sixth Sense
+Option 4: Glass
+You choose Option: 1
+You took: 32 seconds to answer.
+Answer is incorrect!
+--------
+--------
+Your score is 0 out of 500.
+--------

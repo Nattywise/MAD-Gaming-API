@@ -1,0 +1,12 @@
+﻿Open nuget package manager console
+
+To create model
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+Scaffold-DbContext "Data Source=DBN-NKOSINATHIN\SQLEXPRESS;Initial Catalog=Mad;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
+
+ReScaffold
+Scaffold-DbContext "Data Source=DBN-NKOSINATHIN\SQLEXPRESS;Initial Catalog=Mad;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model -Force
